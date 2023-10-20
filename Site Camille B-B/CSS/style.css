@@ -1,0 +1,56 @@
+h2
+{
+font-weight:normal;
+color: black;
+border-style: dotted;
+border-width: 2px;
+border-color: black;
+background-color: burlywood;
+}
+
+p, ol
+{
+    color: black;
+	border: 1px black;
+}
+
+body
+{
+	font-family:fantasy;
+	background-color: rgb(17, 238, 238) ;
+	background-position: right;
+}
+
+
+table,tr,td
+ {
+    border-width: 2px; 
+    border-style: solid ;
+    border-color: black;
+    text-align: center;
+ }
+
+aside
+{
+	text-align: center ;
+}
+
+section
+{
+	text-align: left ;
+}
+
+
+footer
+{
+	text-align: center;
+	background-color: antiquewhite;
+	color:black;
+}
+
+nav
+{
+	display: block;
+	background-color: antiquewhite;
+}
+

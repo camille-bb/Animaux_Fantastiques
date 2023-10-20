@@ -1,0 +1,35 @@
+body
+{
+    background-color: cyan;
+    font-family:fantasy;
+}
+
+nav
+{
+	display: block;
+	background-color: antiquewhite;
+}
+
+h2
+{
+    font-weight:normal;
+    color: black;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: black;
+    background-color: burlywood;
+ }
+
+ table, tr,td
+ {
+    border-width: 2px; 
+    border-style: solid ;
+    border-color: black;
+    text-align: center;
+ }
+
+
+ aside
+ {
+    text-align: center ;
+ }

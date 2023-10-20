@@ -1,0 +1,62 @@
+h2
+{
+font-weight:normal;
+color: black;
+border-style: dotted;
+border-width: 2px;
+border-color: black;
+background-color: burlywood;
+}
+
+p, ol, table
+{
+    color: black;
+	border: 1px black;
+	
+}
+
+body
+{
+    font-family:fantasy;
+}
+
+
+table, td, tr
+{
+   border-width: 2px; 
+   border-style: solid ;
+   border-color: black;
+   text-align: center;
+}
+
+body
+{
+	background-color: rgb(17, 238, 238) ;
+	background-image: url(pigeon_CBB.jpg) ;
+	background-position: right;
+}
+
+aside
+{
+	text-align: center ;
+}
+
+section
+{
+	text-align: left ;
+}
+
+
+footer
+{
+	text-align: center;
+	background-color: antiquewhite;
+	color:black;
+}
+
+nav
+{
+	display: block;
+	background-color: antiquewhite;
+}
+
